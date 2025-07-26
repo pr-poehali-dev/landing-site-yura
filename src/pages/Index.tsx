@@ -10,20 +10,20 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <div className="text-2xl font-bold text-gray-900">
-              СайтКодер
+              грач - писюн
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="text-gray-600 hover:text-blue-600 transition-colors duration-300">
-                Главная
+                грач - писюн
               </a>
               <a href="#about" className="text-gray-600 hover:text-blue-600 transition-colors duration-300">
-                О нас
+                грач - писюн
               </a>
               <a href="#features" className="text-gray-600 hover:text-blue-600 transition-colors duration-300">
-                Преимущества
+                грач - писюн
               </a>
               <a href="#reviews" className="text-gray-600 hover:text-blue-600 transition-colors duration-300">
-                Отзывы
+                грач - писюн
               </a>
             </div>
             <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2">
@@ -38,21 +38,21 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6 text-center">
           <div className="animate-fade-in">
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              ого я что<br />
-              <span className="text-blue-600">научился кодить</span><br />
-              сайты с телефона
+              грач - писюн<br />
+              <span className="text-blue-600">грач - писюн</span><br />
+              грач - писюн
             </h1>
             <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed">
-              Современные технологии позволяют создавать потрясающие веб-сайты прямо с мобильного устройства. Это революция в веб-разработке.
+              грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 text-lg hover-scale">
                 <Icon name="Smartphone" size={20} className="mr-2" />
-                Попробовать сейчас
+                грач - писюн
               </Button>
               <Button size="lg" variant="outline" className="border-gray-300 text-gray-700 hover:bg-gray-50 px-8 py-4 text-lg hover-scale">
                 <Icon name="Play" size={20} className="mr-2" />
-                Смотреть демо
+                грач - писюн
               </Button>
             </div>
           </div>
@@ -64,26 +64,26 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="text-center mb-16 animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              О нас
+              грач - писюн
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Мы первопроходцы в области мобильной веб-разработки. Наша команда создала революционную платформу для кодинга с телефона.
+              грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн.
             </p>
           </div>
           
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h3 className="text-3xl font-bold text-gray-900 mb-6">
-                Наша миссия
+                грач - писюн
               </h3>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Сделать веб-разработку доступной каждому, где бы он ни находился. Больше не нужен мощный компьютер — достаточно смартфона.
+                грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн.
               </p>
               <div className="flex items-center space-x-4">
                 <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center">
                   <Icon name="Zap" size={24} className="text-blue-600" />
                 </div>
-                <span className="text-lg font-semibold text-gray-900">Быстро и эффективно</span>
+                <span className="text-lg font-semibold text-gray-900">грач - писюн</span>
               </div>
             </div>
             
@@ -91,10 +91,10 @@ export default function Index() {
               <div className="text-center">
                 <div className="text-4xl mb-4">📱</div>
                 <h4 className="text-2xl font-bold text-gray-900 mb-4">
-                  Мобильная революция
+                  грач - писюн
                 </h4>
                 <p className="text-gray-600">
-                  Первая в мире платформа для профессиональной разработки сайтов на мобильных устройствах
+                  грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн
                 </p>
               </div>
             </div>
@@ -107,10 +107,10 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="text-center mb-16 animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Преимущества
+              грач - писюн
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Узнайте, почему тысячи разработчиков выбирают мобильную разработку
+              грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн
             </p>
           </div>
           
@@ -121,10 +121,10 @@ export default function Index() {
                   <Icon name="Smartphone" size={32} className="text-blue-600" />
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                  Мобильность
+                  грач - писюн
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Кодьте где угодно и когда угодно. В метро, в кафе, на пляже — ваш офис всегда с вами.
+                  грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн.
                 </p>
               </CardContent>
             </Card>
@@ -135,10 +135,10 @@ export default function Index() {
                   <Icon name="Zap" size={32} className="text-green-600" />
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                  Скорость
+                  грач - писюн
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Быстрый старт проектов благодаря оптимизированному интерфейсу для сенсорных экранов.
+                  грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн.
                 </p>
               </CardContent>
             </Card>
@@ -149,10 +149,10 @@ export default function Index() {
                   <Icon name="Sparkles" size={32} className="text-purple-600" />
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                  Простота
+                  грач - писюн
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Интуитивный интерфейс, разработанный специально для мобильных устройств.
+                  грач - писюн грач - писюн грач - писюн грач - писюн.
                 </p>
               </CardContent>
             </Card>
@@ -165,10 +165,10 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="text-center mb-16 animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Отзывы
+              грач - писюн
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Что говорят наши пользователи о мобильной разработке
+              грач - писюн грач - писюн грач - писюн грач - писюн
             </p>
           </div>
           
@@ -180,12 +180,12 @@ export default function Index() {
                     А
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900">Алексей М.</h4>
-                    <p className="text-gray-600 text-sm">Frontend разработчик</p>
+                    <h4 className="font-bold text-gray-900">грач - писюн</h4>
+                    <p className="text-gray-600 text-sm">грач - писюн</p>
                   </div>
                 </div>
                 <p className="text-gray-700 italic">
-                  "Не могу поверить, что теперь могу создавать сайты прямо с телефона! Это просто невероятно удобно."
+                  "грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн"
                 </p>
                 <div className="flex text-yellow-400 mt-4">
                   ⭐⭐⭐⭐⭐
@@ -200,12 +200,12 @@ export default function Index() {
                     М
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900">Мария К.</h4>
-                    <p className="text-gray-600 text-sm">UI/UX дизайнер</p>
+                    <h4 className="font-bold text-gray-900">грач - писюн</h4>
+                    <p className="text-gray-600 text-sm">грач - писюн</p>
                   </div>
                 </div>
                 <p className="text-gray-700 italic">
-                  "Революция в веб-разработке! Теперь я могу работать над проектами даже в дороге."
+                  "грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн"
                 </p>
                 <div className="flex text-yellow-400 mt-4">
                   ⭐⭐⭐⭐⭐
@@ -220,12 +220,12 @@ export default function Index() {
                     Д
                   </div>
                   <div>
-                    <h4 className="font-bold text-gray-900">Дмитрий В.</h4>
-                    <p className="text-gray-600 text-sm">Fullstack разработчик</p>
+                    <h4 className="font-bold text-gray-900">грач - писюн</h4>
+                    <p className="text-gray-600 text-sm">грач - писюн</p>
                   </div>
                 </div>
                 <p className="text-gray-700 italic">
-                  "Сначала скептически отнесся, но попробовав — остался в восторге. Мобильный кодинг — это будущее!"
+                  "грач - писюн грач - писюн грач - писюн грач - писюн грач - писюн"
                 </p>
                 <div className="flex text-yellow-400 mt-4">
                   ⭐⭐⭐⭐⭐
@@ -241,14 +241,14 @@ export default function Index() {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <div className="animate-fade-in">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-              Готовы начать кодить с телефона?
+              грач - писюн грач - писюн грач - писюн?
             </h2>
             <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-              Присоединяйтесь к революции мобильной веб-разработки уже сегодня
+              грач - писюн грач - писюн грач - писюн грач - писюн
             </p>
             <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 text-lg font-semibold hover-scale">
               <Icon name="Rocket" size={20} className="mr-2" />
-              Начать прямо сейчас
+              грач - писюн
             </Button>
           </div>
         </div>
@@ -258,9 +258,9 @@ export default function Index() {
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-6xl mx-auto px-6">
           <div className="text-center">
-            <div className="text-2xl font-bold mb-4">СайтКодер</div>
+            <div className="text-2xl font-bold mb-4">грач - писюн</div>
             <p className="text-gray-400 mb-6">
-              Первая платформа для создания сайтов с мобильного телефона
+              грач - писюн грач - писюн грач - писюн грач - писюн
             </p>
             <div className="flex justify-center space-x-6">
               <a href="#" className="text-gray-400 hover:text-white transition-colors duration-300">
